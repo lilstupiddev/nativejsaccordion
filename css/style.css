@@ -1,0 +1,18 @@
+.accordion{
+    border: 2px solid blue;
+    padding: 20px;
+}
+
+
+.content{
+    max-height: 0;
+    overflow: hidden;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.container{
+    max-width: 90%;
+    margin: auto;
+}
